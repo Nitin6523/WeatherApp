@@ -1,2 +1,2 @@
 ﻿# WeatherApp
- link : https://github.com/Nitin6523
+ Link : https://weatherapp6523.netlify.app/
